@@ -3,4 +3,4 @@
 
 git国内下载站 <https://github.com/waylau/git-for-win>
 
-生成SSH-KEY: ssh-keygen -C "<email>"
+生成SSH-KEY: ssh-keygen -C "email"
