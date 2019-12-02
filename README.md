@@ -6,7 +6,7 @@
 
 >>**驱动开发**  
 >>>[pinctrl_GPIO](https://github.com/JOZOCHEN/docs/blob/master/pinctrl_GPIO.md)  
->>>[pinctrl_GPIO](https://github.com/JOZOCHEN/docs/blob/master/ioctrl.md)  
+>>>[ioctrl](https://github.com/JOZOCHEN/docs/blob/master/ioctrl.md)  
 
 >**总线协议**  
 >>[CAN总线知识总结](https://www.cnblogs.com/jozochen/p/8467714.html)  
