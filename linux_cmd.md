@@ -5,7 +5,7 @@
 
 ## zip  
 解压：unzip filename.zip  
-压缩：zip filename.zip dirname  
+压缩：zip -r filename.zip dirname  
 
 ## find （查找文件）  
 find dirname -name "str"
