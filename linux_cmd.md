@@ -8,8 +8,8 @@
 压缩：zip -r filename.zip dirname  
 
 ## rar
-解压：unrar e test.rar
-压缩：rar a test.rar test
+解压：unrar e test.rar  
+压缩：rar a test.rar test  
 
 ## find （查找文件）  
 find dirname -name "str"
