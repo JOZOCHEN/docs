@@ -11,6 +11,9 @@
 解压：unrar e test.rar  
 压缩：rar a test.rar test  
 
+## mv 
+多文件：mv src1 src2 src3 -t dest  
+
 ## find （查找文件）  
 find dirname -name "str"
 
