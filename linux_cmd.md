@@ -15,8 +15,8 @@
 多文件：mv src1 src2 src3 -t dest  
 
 ## ln  
-硬链接：ln src dest  
-软链接：ln -s src dest  
+硬链接（同一文件）：ln src dest  
+软链接（快捷方式）：ln -s src dest  
 
 ## find （查找文件）  
 find dirname -name "str"
