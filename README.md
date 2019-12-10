@@ -3,6 +3,7 @@
 >**Linux**  
 >>**常用**  
 >>>[linux_cmd](https://github.com/JOZOCHEN/docs/blob/master/linux_cmd.md)    
+>>>[source_update](https://github.com/JOZOCHEN/docs/blob/master/source_update.md)   
 
 >>**驱动开发**  
 >>>[pinctrl_GPIO](https://github.com/JOZOCHEN/docs/blob/master/pinctrl_GPIO.md)  
