@@ -23,3 +23,7 @@ find dirname -name "str"
 
 ## grep （查找字符串）  
 grep "str" dirname -R
+
+## mkdir  
+创建并设置权限：mkdir -m 777 dirname  
+创建路径上的目录：mkdir -p rootdir/dirname  
