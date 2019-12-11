@@ -27,3 +27,6 @@ grep "str" dirname -R
 ## mkdir  
 创建并设置权限：mkdir -m 777 dirname  
 创建路径上的目录：mkdir -p rootdir/dirname  
+
+# cp  
+-a 该选项通常在拷贝目录时使用。它保留链接、文件属性，并递归地拷贝目录，其作用等于dpr选项的组合  
