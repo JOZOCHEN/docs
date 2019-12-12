@@ -21,6 +21,7 @@
 >>[github](https://github.com/JOZOCHEN/docs/blob/master/github.md)  
 >>[docker](https://github.com/JOZOCHEN/docs/blob/master/docker.md)  
 >>[Makefile](https://github.com/JOZOCHEN/docs/blob/master/Makefile.md)  
+>>[vscode](https://github.com/JOZOCHEN/docs/blob/master/vscode.md)   
 
 >**其他**  
 >>[c语言风格注意事项(misra c)](https://www.cnblogs.com/jozochen/p/8893549.html)  
