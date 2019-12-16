@@ -4,10 +4,12 @@
 修改/.vscode/settings.json  
 ```
 {
+    /*以下文件不搜索*/
     "search.exclude": {
         "**/node_modules": true,
         "**/bower_components": true,
     },
+    /*以下文件不在左侧目录显示*/
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
