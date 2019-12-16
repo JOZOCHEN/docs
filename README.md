@@ -10,6 +10,7 @@
 >>>[ioctrl](https://github.com/JOZOCHEN/docs/blob/master/ioctrl.md)  
 >>>[socket_can](https://github.com/JOZOCHEN/docs/blob/master/socket_can.md)  
 >>>[Kconfig&Makefile](https://github.com/JOZOCHEN/docs/blob/master/Kconfig&Makefile.md)  
+>>>[printk](https://github.com/JOZOCHEN/docs/blob/master/printk.md)  
 
 >**总线协议**  
 >>[CAN总线知识总结](https://www.cnblogs.com/jozochen/p/8467714.html)  
