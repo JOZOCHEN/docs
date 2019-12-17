@@ -1,5 +1,19 @@
 # Makefile  
-## 模板  
+## 模板   
+### module
+```
+KERNELDIR := /home/xxx
+CURRENT_PATH := $(shell pwd)
+
+obj-m := xxx.o
+
+build: kernel_modules
+
+kernel_modules:
+    $(MAKE) -C $(KERNELDIR) M=$(CURRENT_PATH) modules
+clean:
+    $(MAKE) -C $(KERNELDIR) M=$(CURRENT_PATH) clean
+```  
 
 ## 自动化变量  
 |自动化变量|描述|
