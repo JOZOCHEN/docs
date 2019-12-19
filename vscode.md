@@ -19,3 +19,5 @@
     }
 }
 ```
+## 头文件路径  
+Crtl+Shift+P C/C++: Edit configurations(JSON)  

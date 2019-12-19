@@ -11,6 +11,9 @@
 >>>[socket_can](https://github.com/JOZOCHEN/docs/blob/master/socket_can.md)  
 >>>[Kconfig&Makefile](https://github.com/JOZOCHEN/docs/blob/master/Kconfig&Makefile.md)  
 >>>[printk](https://github.com/JOZOCHEN/docs/blob/master/printk.md)  
+>>>[device_tree](https://github.com/JOZOCHEN/docs/blob/master/device_tree.md)  
+>>>[concurrency&competition](https://github.com/JOZOCHEN/docs/blob/master/concurrency&competition.md)  
+>>>[kernel_timer](https://github.com/JOZOCHEN/docs/blob/master/kernel_timer.md)  
 
 >**总线协议**  
 >>[CAN总线知识总结](https://www.cnblogs.com/jozochen/p/8467714.html)  
