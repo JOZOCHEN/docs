@@ -6,7 +6,8 @@
 >>>[source_update](https://github.com/JOZOCHEN/docs/blob/master/source_update.md)   
 
 >>**驱动开发**  
->>>[pinctrl_GPIO](https://github.com/JOZOCHEN/docs/blob/master/pinctrl_GPIO.md)  
+>>>[debug_print](https://github.com/JOZOCHEN/docs/blob/master/debug_print.md)  
+>>>[pinctrl_gpio](https://github.com/JOZOCHEN/docs/blob/master/pinctrl_gpio.md)  
 >>>[ioctrl](https://github.com/JOZOCHEN/docs/blob/master/ioctrl.md)  
 >>>[socket_can](https://github.com/JOZOCHEN/docs/blob/master/socket_can.md)  
 >>>[Kconfig&Makefile](https://github.com/JOZOCHEN/docs/blob/master/Kconfig&Makefile.md)  
