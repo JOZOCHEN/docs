@@ -30,3 +30,7 @@ grep "str" dirname -R
 
 # cp  
 -a 该选项通常在拷贝目录时使用。它保留链接、文件属性，并递归地拷贝目录，其作用等于dpr选项的组合  
+
+# useradd  
+增加用户: useradd tt
+删除用户：userdel -r(同时删除文件) tt
