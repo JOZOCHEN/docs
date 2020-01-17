@@ -23,7 +23,7 @@
 
 >**工具**  
 >>[markdown](https://github.com/JOZOCHEN/docs/blob/master/markdown.md)  
->>[github](https://github.com/JOZOCHEN/docs/blob/master/github.md)  
+>>[git&repo](https://github.com/JOZOCHEN/docs/blob/master/git&repo.md)  
 >>[docker](https://github.com/JOZOCHEN/docs/blob/master/docker.md)  
 >>[Makefile](https://github.com/JOZOCHEN/docs/blob/master/Makefile.md)  
 >>[vscode](https://github.com/JOZOCHEN/docs/blob/master/vscode.md)   
