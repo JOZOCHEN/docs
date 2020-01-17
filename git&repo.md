@@ -11,7 +11,7 @@ git config user.name
 git config user.email  
 
 分支管理    
-查看：git branch -a(显示远端分支)   
+查看：git branch -a(显示远端分支) -vv(显示本地分支与远端分支的联系)   
 创建：git checkout -b branch_name   
 切换：git checkout branch_name  
 删除：git branch -d branch_name 
