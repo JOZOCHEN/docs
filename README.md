@@ -23,6 +23,7 @@
 4. [Makefile](https://github.com/JOZOCHEN/docs/blob/master/Makefile.md)  
 5. [vscode](https://github.com/JOZOCHEN/docs/blob/master/vscode.md)  
 6. [shell_script](https://github.com/JOZOCHEN/docs/blob/master/shell_script.md)
+7. [uip](https://github.com/JOZOCHEN/docs/blob/master/uip.md)
 
 ## 3、**总线协议**  
 1. [CAN总线知识总结](https://www.cnblogs.com/jozochen/p/8467714.html)  
