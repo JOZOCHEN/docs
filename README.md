@@ -15,6 +15,7 @@
 7. [device_tree](https://github.com/JOZOCHEN/docs/blob/master/device_tree.md)  
 8. [concurrency&competition](https://github.com/JOZOCHEN/docs/blob/master/concurrency&competition.md) 
 9. [kernel_timer](https://github.com/JOZOCHEN/docs/blob/master/kernel_timer.md)  
+10. [v4l2](https://github.com/JOZOCHEN/docs/blob/master/v4l2.md)  
 
 ## 2、**工具**  
 1. [markdown](https://github.com/JOZOCHEN/docs/blob/master/markdown.md)  
