@@ -1,9 +1,9 @@
 # 常用指令  
 ## tar  
-解包：tar -zxvf filename.tar  
-打包：tar -czvfh filename.tar dirname  (dirname2 dirname3) 
+解包：tar -xzvf filename.tar  
+打包：tar -czvf filename.tar dirname  (dirname2 dirname3) 
 解包(软链接)：tar -xvf filename.tar 
-打包(软链接)：tar -cvhf filename.tar dirname  (dirname2 dirname3)
+打包(软链接)：tar -cvfh filename.tar dirname  (dirname2 dirname3)
 
 ## zip  
 解压：unzip filename.zip  
