@@ -1,8 +1,8 @@
 # 常用指令  
 ## tar  
-解包：tar -xzvf filename.tar  
-打包：tar -czvf filename.tar dirname  (dirname2 dirname3) 
-解包(软链接)：tar -xvf filename.tar 
+解包：tar -xvf filename.tar  
+打包：tar -cvf filename.tar dirname  (dirname2 dirname3) 
+解包(软链接)：tar -xvf filename.tar git
 打包(软链接)：tar -cvfh filename.tar dirname  (dirname2 dirname3)
 
 ## zip  
