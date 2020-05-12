@@ -16,6 +16,9 @@ git config user.email
 切换：git checkout branch_name  
 删除：git branch -d branch_name 
 
+回退：
+git reset --hard <commit id>
+
 ## repo指令
 分支管理：  
 查看：repo branch   
