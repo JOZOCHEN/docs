@@ -7,6 +7,8 @@
 设置共享文件夹：-v (local_path/file):(/dest_path/file)  
 拥有真root权限(可执行mount): --privileged 
 
+删除容器: docker rm (container_id) 
+
 修改容器名: docker rename (old_name) (new_name)
 
 启动容器：docker start (container_id)  
