@@ -1,3 +1,5 @@
+**不再更新，迁移至blog<https://jozochen.github.io/>**  
+
 # 目录  
 
 ## 1、**Linux**  
